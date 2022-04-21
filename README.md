@@ -16,8 +16,8 @@
 
 # Competence 
 ### 3 Check point ✔️ 
-- UI designer & Front-end web developer <b>(3 year)</b>
-- Web / Game graphic / Character / Editorial designer & Animation/Video Creator <b>(9 year)</b>
+- UI/Web designer & Front-end web developer <b>(3 year)</b>
+- Game graphic/Character/Editorial/Advertising/Package designer & Animation/Video Creator <b>(9 year)</b>
 - R&D government support project manager <b>(9 year)</b>
 
 </br>
