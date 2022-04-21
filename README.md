@@ -44,4 +44,4 @@
 
 </br>
 
-![footer](https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&text=Read%20more..&fontColor=0000bb&fontSize=50&fontAlignY=40&animation=twinkling&desc=Ask%20me%20for%20my%20portfolio!&descSize=25&descAlignY=80)
+![footer](https://capsule-render.vercel.app/api?type=Rect&height=120&section=header&text=Read%20more..&color=0:F8AD93,100:D66E82&fontColor=ffffff&fontSize=50&fontAlignY=40&animation=twinkling&desc=Ask%20me%20for%20my%20portfolio!&descSize=25&descAlignY=75)
